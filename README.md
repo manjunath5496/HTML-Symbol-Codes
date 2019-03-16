@@ -1,3 +1,14 @@
+
+
+ HTML Character Set & Entity References </br>
+
+<a href="https://github.com/manjunath5496/HTML-Symbol-Codes/blob/master/pdf1.pdf" target="_blank" style="text-decoration:none"> <font color="blue"> <center> Download</center></font> </a>
+
+
+<p>&nbsp;</p>
+
+
+
 <p><strong>Special HTML codes</strong></p>
 <table>
 <thead>
